@@ -1,0 +1,13 @@
+name: fastapi_mcp
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/57c78cfe-8979-45ea-9b81-02326d23494c
+description: Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
